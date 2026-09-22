@@ -603,5 +603,3 @@ TG_MANAGER_EMBEDDED_20260920
 }
 
 main "$@"
-
-bash rknpidor
